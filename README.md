@@ -9,7 +9,7 @@
 I'm Sakeet,An aspiring web developer and android developer who believes good product just solves your problem but best product changes your way of life.
 
  
-- 🌱 I  love singing songs.
+- 🌱 I  love singing songs, Watching TV ,Travelling .
 - 🌱 I am a cybersecurity enthusiast.
 - ⚡ Languages: C, C++ and HTML
 - 🌱 I love to build new apps which is useful for the society
