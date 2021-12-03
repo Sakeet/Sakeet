@@ -1,4 +1,4 @@
-### Hi there,I'm K.Sakeet 👋
+### Hi there,I'm Sakeet 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-kopparapu.sakeet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kopparapu.sakeet@gmail.com)](mailto:kopparapu.sakeet@gmail.com)
 
