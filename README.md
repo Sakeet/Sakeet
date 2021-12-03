@@ -7,8 +7,7 @@
 An aspiring web developer and android developer who believes good product just solves your problem but best product changes your way of life.
 
  
-- 🌱 I  love singing songs, Watching TV ,Travelling .
-- 🌱 I am a cybersecurity enthusiast.
+- 🌱 I  love singing songs, Watching TV , Playing Games , Travelling .
 - ⚡ Languages: C, C++ and HTML
 - 🌱 I love to build new apps which is useful for the society
 
