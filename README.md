@@ -1,14 +1,15 @@
-### Hi there,I'm Sakeet 👋
+### Hi There,My Name is Sakeet 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-kopparapu.sakeet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kopparapu.sakeet@gmail.com)](mailto:kopparapu.sakeet@gmail.com)
 
  
 
-An aspiring web developer and android developer who believes good product just solves your problem but best product changes your way of life.
+An aspiring Data Science,Machine Learning and Web Development who believes in good product just solves your problem but best product changes your way of life.
 
  
 - 🌱 I  love singing songs, Watching TV , Playing Games , Travelling .
-- ⚡ Languages: C, C++ and HTML
+- ⚡ Languages: C, C++, Python and HTML
+-     Libraries: Pandas,Numpy,Matplotlib
 - 🌱 I love to build new apps which is useful for the society
 
  
