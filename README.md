@@ -1,6 +1,6 @@
 ### Hi There,My Name is Sakeet 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-kopparapu.sakeet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kopparapu.sakeet@gmail.com)](mailto:kopparapu.sakeet@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sakeetkopparapu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kopparapu.sakeet@gmail.com)](mailto:kopparapu.sakeet@gmail.com)
 
  
 
