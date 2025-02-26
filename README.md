@@ -8,10 +8,14 @@ A Determined graduate student in Information Systems with hands-on experience in
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sakeet&show_icons=true" alt="Sakeet" /></p>
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Sakeet Kopparapu's Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakeet-Kopparapu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sakeet-Kopparapu"/>
+</p>
+
 - 😄 Pronouns: He/him
 - 💻 Languages: C, C++, Python and HTML
 - ✅ Libraries: Pandas,Numpy,Matplotlib
-- 👨‍💻 All of my projects are available at [Github](https://github.com/sakeet_kopparapu) 
 - 🤓 Fun fact: I enjoy 🧠 participating in quiz competitions, 🎤 singing songs, and ✈️ traveling.
 
 <h3>Check out my coding skills:</h3>
