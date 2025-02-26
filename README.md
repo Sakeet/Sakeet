@@ -9,8 +9,8 @@ A Determined graduate student in Information Systems with hands-on experience in
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sakeet&show_icons=true" alt="Sakeet" /></p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sakeet-Kopparapu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Sakeet Kopparapu's Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakeet-Kopparapu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sakeet-Kopparapu"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakeet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Sakeet Kopparapu's Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakeet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sakeet-Kopparapu"/>
 </p>
 
 - 😄 Pronouns: He/him
