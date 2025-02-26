@@ -7,12 +7,17 @@
 A Determined graduate student in Information Systems with hands-on experience in Software Engineering, Data Analytics,Machine Learning, Data Science and Web Development projects who believes in good product just solves your problem but best product changes your way of life. Check out my work and feel free to ping me! 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sakeet&show_icons=true" alt="Sakeet" /></p>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeet&layout=compact&theme=radical)]
 
 - 😄 Pronouns: He/him
 - 💻 Languages: C, C++, Python and HTML
 - ✅ Libraries: Pandas,Numpy,Matplotlib
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sakeet_kopparapu) 
 - 🤓 Fun fact: I enjoy 🧠 participating in quiz competitions, 🎤 singing songs, and ✈️ traveling.
+
+<h3>Check out my coding skills:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/kopparapu_sakeet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sakeet Kopparapu" height="40" width="50" /></a>
+</p>
 
 
 
