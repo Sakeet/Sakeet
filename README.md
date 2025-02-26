@@ -6,8 +6,8 @@
 
 A Determined graduate student in Information Systems with hands-on experience in Software Engineering, Data Analytics,Machine Learning, Data Science and Web Development projects who believes in good product just solves your problem but best product changes your way of life. Check out my work and feel free to ping me! 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sakeet&show_icons=true" alt="Sakeet" />
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeet&layout=compact&theme=radical)</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sakeet&show_icons=true" alt="Sakeet" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeet&layout=compact&theme=radical)
 
 - 😄 Pronouns: He/him
 - 💻 Languages: C, C++, Python and HTML
